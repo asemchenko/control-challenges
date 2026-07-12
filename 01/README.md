@@ -9,3 +9,5 @@ effectively close to 1, so differential component starts its work and slow down 
 
 Using non-linear multiplier for D component instead of constant multiplier improved my solution from 1.42 seconds to 0.8 seconds
 (44% boost)
+
+https://github.com/user-attachments/assets/578d1318-51b7-4d61-8b37-ce1b1a5b4954
